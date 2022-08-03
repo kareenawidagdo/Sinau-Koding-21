@@ -1,2 +1,1 @@
-# Sinau-Koding-21
-This repository is used for publishing my tasks from Sinau Koding Virtual Course 21 (Back-End).
+Hello! My name is Kareena Widagdo and I'm just graduated from Vocational High School Telkom Purwokerto in Software Engineering major. I'm currently joining "Sinau Koding Virtual Course 21 (Back-End)" and this repository is used for publishing my tasks from this virtual course. Thank you.
